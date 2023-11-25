@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Menu</string>
+
+    <string name="name_soppa_first">Kastanjesoppa</string>
+    <string name="name_soppa_second">Stefan Ekengrens ärtsoppa</string>
+    <string name="name_soppa_third">Krämig tomatsoppa med vita bönor</string>
+
+</resources>
